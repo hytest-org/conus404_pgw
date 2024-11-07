@@ -3,7 +3,7 @@ requires = ["setuptools>=61"]   # , "setuptools-scm", "numpy"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "conus404-pgw"
+name = "conus404_pgw"
 description = "Utilities for creating cloud-optimized datasets from the CONUS404 pseudo-global warming (PGW) model output"
 readme = "README.md"
 dynamic = ["version"]
@@ -30,7 +30,7 @@ dependencies = ["cyclopts",
     "zarr", ]
 
 [project.urls]
-Repository = "https://github.com/hytest-org/conus404-pgw.git"
+Repository = "https://github.com/hytest-org/conus404_pgw.git"
 
 #[project.scripts]
 #convert_params = "pyPRMS.utilities.convert_params:main"
@@ -40,7 +40,7 @@ include-package-data = false
 zip-safe = false
 
 [tool.setuptools.dynamic]
-version = {attr = "conus404-pgw.version.__version__"}
+version = {attr = "conus404_pgw.version.__version__"}
 
 [tool.setuptools.packages.find]
-include = ["conus404-pgw", "conus404-pgw.*"]
+include = ["conus404_pgw", "conus404_pgw.*"]

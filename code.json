@@ -11,15 +11,15 @@
       "licenses": [
         {
           "name": "Public Domain, CC0-1.0",
-          "URL": "https://raw.githubusercontent.com/hytest-org/conus404-pgw/refs/heads/main/LICENSE"
+          "URL": "https://raw.githubusercontent.com/hytest-org/conus404_pgw/refs/heads/main/LICENSE"
         }
       ]
     },
 
-    "homepageURL": "https://github.com/hytest-org/conus404-pgw",
+    "homepageURL": "https://github.com/hytest-org/conus404_pgw",
     "downloadURL": "https://code.usgs.gov/TEAM_NAME/REPOSITORY_NAME/-/archive/RELEASE_VERSION/REPOSITORY_NAME-RELEASE_VERSION.zip",
     "disclaimerURL": "https://code.usgs.gov/TEAM_NAME/REPOSITORY_NAME/-/raw/RELEASE_VERSION/DISCLAIMER.md",
-    "repositoryURL": "https://github.com/hytest-org/conus404-pgw.git",
+    "repositoryURL": "https://github.com/hytest-org/conus404_pgw.git",
     "vcs": "git",
 
     "laborHours": 0,
